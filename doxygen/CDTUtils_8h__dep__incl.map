@@ -1,0 +1,7 @@
+<map id="include/CDTUtils.h" name="include/CDTUtils.h">
+<area shape="rect" id="node2" href="$CDT_8h.html" title="Public API. " alt="" coords="151,80,257,107"/>
+<area shape="rect" id="node4" href="$CDT_8hpp.html" title="Public API &#45; implementation. " alt="" coords="189,155,309,181"/>
+<area shape="rect" id="node5" href="$CDTUtils_8hpp.html" title="Utilities and helpers &#45; implementation. " alt="" coords="332,80,479,107"/>
+<area shape="rect" id="node6" href="$PointRTree_8h.html" title="Adapter between for boost::geometry::rtree and CDT. " alt="" coords="503,80,647,107"/>
+<area shape="rect" id="node3" href="$VerifyTopology_8h.html" title="Helper function to verify if triangulation has no inconsistencies. " alt="" coords="5,155,165,181"/>
+</map>
